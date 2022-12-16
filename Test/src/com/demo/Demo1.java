@@ -8,6 +8,7 @@ public class Demo1 {
 		String s="Mahesh";
 		int count=s.length();
 		System.out.println(count);
+		System.out.println(s);
 	}
 
 }
